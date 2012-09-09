@@ -1,7 +1,7 @@
 d20 hockey winrt
 ===============
 
-This project is designed to bring the 1980's pen-and-paper hockey dice game invented by Jim Harris to life as a Windows 8 JavaScript application. Furthermore, it aims to add some (optional) enhanced gameplay elements to classic formula.
+This project is designed to bring the 1980's pen-and-paper hockey dice game invented by Jim Harris to life as a Windows 8 JavaScript application. Furthermore, it aims to add some (optional) enhanced gameplay elements to the classic formula.
 
 ##original gameplay
 
