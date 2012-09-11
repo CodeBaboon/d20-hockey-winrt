@@ -2,7 +2,6 @@ week one
 ===============
 
 ##GitHub
-------
 * local copy vs on server
 * public repo free, private $$
 * GitHub for Windows very clean, metro ui
