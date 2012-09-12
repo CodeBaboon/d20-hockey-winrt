@@ -23,3 +23,7 @@ Feeling things out
 * switched projects - too many issues to deal with TeamPulse oAuth, getting in the way of desired learning
 * spent hours reviewing sample apps and reading documentation on metro app design (patterns, controls, etc)
 * discovered html5 indexedDb, stores JSON documents locally to browser, will be storage mechanism of choice
+* discovered roaming application data (used to sync app settings across devices).
+  * Blog: http://blogs.msdn.com/b/windowsappdev/archive/2012/07/17/roaming-your-app-data.aspx
+  * Guidelines: http://msdn.microsoft.com/en-us/library/windows/apps/hh465094.aspx
+* decided to try a Hub interface, designed initial hub mock
