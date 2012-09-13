@@ -27,3 +27,8 @@ Feeling things out
   * Blog: http://blogs.msdn.com/b/windowsappdev/archive/2012/07/17/roaming-your-app-data.aspx
   * Guidelines: http://msdn.microsoft.com/en-us/library/windows/apps/hh465094.aspx
 * decided to try a Hub interface, designed initial hub mock
+* discovered Metro Studio for some decent stock icons: http://www.syncfusion.com/downloads/metrostudio
+* created new project in VS using Navigation WinJS template
+  * modified sample data in data.js to resemble mock
+  * renamed hub page
+  * modified package.appmanifest appropriately
