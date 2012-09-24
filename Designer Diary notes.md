@@ -38,3 +38,5 @@ Feeling things out
 Flu
 
 ##week four
+
+* DOM Explorer and Javascript Console
