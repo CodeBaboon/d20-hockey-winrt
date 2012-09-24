@@ -32,3 +32,9 @@ Feeling things out
   * modified sample data in data.js to resemble mock
   * renamed hub page
   * modified package.appmanifest appropriately
+
+##week three
+
+Flu
+
+##week four
