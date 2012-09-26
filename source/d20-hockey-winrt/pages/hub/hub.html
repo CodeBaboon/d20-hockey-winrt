@@ -24,8 +24,10 @@
         </button>
     </div>
     <div class="itemtemplate" data-win-control="WinJS.Binding.Template">
-        <div class="item">
-            <img class="item-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
+        <div class="item" data-win-bind="style.backgroundColor:backgroundColor">
+            <div class="item-image-container">
+                <img class="item-image" data-win-bind="src: backgroundImage" />
+            </div>
             <div class="item-overlay">
                 <h4 class="item-title" data-win-bind="textContent: title"></h4>
                 <h6 class="item-subtitle win-type-ellipsis" data-win-bind="textContent: subtitle"></h6>
