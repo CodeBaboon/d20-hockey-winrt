@@ -40,3 +40,7 @@ Flu
 ##week four
 
 * DOM Explorer and Javascript Console
+  * when app breaks look in locals->data.stack for exception details
+  * declaritive binding with win-data-bind="cssProperty: sourceObjectProperty" (http://msdn.microsoft.com/en-us/library/windows/apps/hh758311.aspx)
+    * for properties such as 'style background-color' use notation style.backgroundColor
+* decided it would be cool to pick a color and shield/logo when defining a league
