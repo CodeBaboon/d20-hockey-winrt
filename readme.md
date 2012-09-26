@@ -24,7 +24,7 @@ Finally, players will earn 'experience points' during the season that can then b
 ##features
 
 - create 0-to-many leagues
-  properties: league name, player count, mode (freeplay|original|career)
+  properties: league name, color, shield, player count, mode (freeplay|original|career)
 
   - each league has 0-to-many seasons
     properties: year
